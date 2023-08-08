@@ -29,6 +29,206 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
-    }
+    },
+    {
+      "id": 1010,
+      "category": "arts",
+      "title": "Crafts Fair",
+      "description": "Showcase and sale of local artisan works.",
+      "location": "Downtown Plaza",
+      "date": "April 15, 2022",
+      "time": "09:00",
+      "organizer": "Crafty Carla"
+    },
+    {
+    "id": 1011,
+    "category": "music",
+    "title": "Jazz Night",
+    "description": "Enjoy live jazz performances from local artists.",
+    "location": "Harmony Hall",
+    "date": "May 5, 2022",
+    "time": "19:00",
+    "organizer": "Jazzy Jeff"
+},
+{
+    "id": 1012,
+    "category": "literature",
+    "title": "Book Reading",
+    "description": "Local author reading from their latest novel.",
+    "location": "Readers' Corner",
+    "date": "May 12, 2022",
+    "time": "16:00",
+    "organizer": "Wendy Writer"
+},
+{
+    "id": 1013,
+    "category": "food",
+    "title": "Farmers' Market",
+    "description": "Purchase fresh produce and support local farmers.",
+    "location": "Green Square",
+    "date": "June 2, 2022",
+    "time": "08:00",
+    "organizer": "Farmer Fred"
+},
+{
+    "id": 1014,
+    "category": "sustainability",
+    "title": "Tree Planting",
+    "description": "Help reforest a local park.",
+    "location": "Green Park",
+    "date": "June 10, 2022",
+    "time": "10:00",
+    "organizer": "Terra Green"
+},
+{
+    "id": 1015,
+    "category": "sports",
+    "title": "Charity Run",
+    "description": "5k run to raise funds for education.",
+    "location": "City Stadium",
+    "date": "June 24, 2022",
+    "time": "07:00",
+    "organizer": "Runner Ray"
+},
+{
+    "id": 1016,
+    "category": "arts",
+    "title": "Photography Exhibit",
+    "description": "Showcasing local photographers.",
+    "location": "Gallery One",
+    "date": "July 3, 2022",
+    "time": "12:00",
+    "organizer": "Polly Picture"
+},
+{
+    "id": 1017,
+    "category": "film",
+    "title": "Film Festival",
+    "description": "Screening of indie films.",
+    "location": "Cineplex",
+    "date": "July 15, 2022",
+    "time": "15:00",
+    "organizer": "Film Fan Fiona"
+},
+{
+    "id": 1018,
+    "category": "technology",
+    "title": "Tech Talk",
+    "description": "Discussion on the latest in tech trends.",
+    "location": "Tech Tower",
+    "date": "August 6, 2022",
+    "time": "13:00",
+    "organizer": "Techie Tom"
+},
+{
+    "id": 1019,
+    "category": "science",
+    "title": "Stargazing Night",
+    "description": "Peer into the cosmos through telescopes.",
+    "location": "Observatory Hill",
+    "date": "August 21, 2022",
+    "time": "20:00",
+    "organizer": "Star Sven"
+},
+{
+    "id": 1020,
+    "category": "education",
+    "title": "Back to School Fair",
+    "description": "Get ready for the school year with resources and workshops.",
+    "location": "Education Center",
+    "date": "September 1, 2022",
+    "time": "09:00",
+    "organizer": "Teacher Tina"
+},
+{
+    "id": 1021,
+    "category": "animal welfare",
+    "title": "Dog Park Opening",
+    "description": "Celebrate the opening of a new park for our furry friends.",
+    "location": "Paws Park",
+    "date": "September 15, 2022",
+    "time": "11:00",
+    "organizer": "Doggy Dan"
+},
+{
+    "id": 1022,
+    "category": "food",
+    "title": "Cooking Workshop",
+    "description": "Learn new culinary skills from a chef.",
+    "location": "Kitchen Place",
+    "date": "October 10, 2022",
+    "time": "14:00",
+    "organizer": "Chef Charlie"
+},
+{
+    "id": 1023,
+    "category": "sustainability",
+    "title": "Eco Fair",
+    "description": "Learn about green living and sustainability.",
+    "location": "Eco Center",
+    "date": "October 24, 2022",
+    "time": "10:00",
+    "organizer": "Eco Eve"
+},
+{
+    "id": 1024,
+    "category": "arts",
+    "title": "Pottery Class",
+    "description": "Craft your own pottery with guidance.",
+    "location": "Clay Studio",
+    "date": "November 5, 2022",
+    "time": "16:00",
+    "organizer": "Potter Pete"
+},
+{
+    "id": 1025,
+    "category": "music",
+    "title": "Rock Concert",
+    "description": "Rock out with local bands.",
+    "location": "Rock Arena",
+    "date": "November 20, 2022",
+    "time": "20:00",
+    "organizer": "Rocky Ryan"
+},
+{
+    "id": 1026,
+    "category": "literature",
+    "title": "Poetry Slam",
+    "description": "Listen to spoken word performances.",
+    "location": "Verse Venue",
+    "date": "December 2, 2022",
+    "time": "19:00",
+    "organizer": "Poet Patty"
+},
+{
+    "id": 1027,
+    "category": "food",
+    "title": "Winter Food Fest",
+    "description": "Enjoy winter-themed treats.",
+    "location": "Snowy Square",
+    "date": "December 15, 2022",
+    "time": "12:00",
+    "organizer": "Foodie Fran"
+},
+{
+    "id": 1028,
+    "category": "sustainability",
+    "title": "Eco-friendly Gift Workshop",
+    "description": "Make sustainable gifts for the holidays.",
+    "location": "Craft Center",
+    "date": "December 20, 2022",
+    "time": "10:00",
+    "organizer": "Craft Carol"
+},
+{
+    "id": 1029,
+    "category": "arts",
+    "title": "Holiday Craft Fair",
+    "description": "Buy handmade gifts for the holidays.",
+    "location": "Festive Hall",
+    "date": "December 23, 2022",
+    "time": "09:00",
+    "organizer": "Holly Handmade"
+}
   ]
 }
